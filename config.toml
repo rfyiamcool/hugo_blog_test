@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "xiaorui.cc"
+theme = "sublime-hugo-theme"
